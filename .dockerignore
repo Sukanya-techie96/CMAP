@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Test coverage
+coverage/
+dist/reports/
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+*.log
+
+# Git
+.git/
+.gitignore
+
+# CI/CD
+.gitlab-ci.yml
+
+# Playwright
+playwright/results/
+
+# Misc
+*.md
+!README.md
+.editorconfig
+.prettierignore
+.sass-lint.yml
+.stylelintrc.yml
